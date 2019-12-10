@@ -1,0 +1,27 @@
+p {
+  font-family: Times New Roman;
+  font-size: 30px;
+}
+body{
+
+  background: url(http://vignette1.wikia.nocookie.net/agario/images/b/b5/Light_Theme.png);
+}
+button {
+  color: black;
+  font-family: Times New Roman;
+  font-size: 17px;
+  background-color: lightgreen;
+}
+.btn-change4{
+    background: #31708f ;
+    border:0px;
+    color:#fff;
+    box-shadow: 0 0 1px #ccc;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transform-origin: 50% 50%;
+    -webkit-transition-timing-function: ease-out;
+    -webkit-box-shadow: 0px -50px 0 0 lightseagreen inset , 0px 50px 0 lightseagreen inset;
+}
+.btn-change4:hover{
+    -webkit-box-shadow: 0px 0px 0 0px lightseagreen inset , 0px 0px 0 0px lightseagreen inset;
+}
