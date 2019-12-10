@@ -7,7 +7,7 @@ var mis_datos = {
   pos: [Math.random() * 800, Math.random() * 800],
   col: 'black'
 };
-var url = 'http://ucslpcontenidos-agario.herokuapp.com/';
+var url = 'https://ucslpcontenidos-agario.herokuapp.com/';
 function tecla(e) {
   switch (e.keyCode) {
     case 38: // arriba
